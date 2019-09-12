@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="69b8b573-2d73-48a2-95f2-d36cc31a1a27" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Loop1/src/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoDimenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessStringBylet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex07-TVFormValidation-master" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex07-TVFormValidation-master" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise13-master" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise13-master" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HTMLCSSJavaScript" beforeDir="false" afterPath="$PROJECT_DIR$/../HTMLCSSJavaScript" afterDir="false" />
@@ -69,9 +69,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoDimenArray">
+  <component name="RunManager" selected="Application.GuessStringBylet">
     <configuration name="AboutArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AboutArrays" />
+      <module name="array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessStringBylet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessStringBylet" />
       <module name="array" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuessStringBylet" />
         <item itemvalue="Application.TwoDimenArray" />
         <item itemvalue="Application.AboutArrays" />
       </list>
@@ -102,7 +110,9 @@
       <option name="presentableId" value="Default" />
       <updated>1568138290468</updated>
       <workItem from="1568138295818" duration="3775000" />
-      <workItem from="1568199637892" duration="271000" />
+      <workItem from="1568199637892" duration="975000" />
+      <workItem from="1568255721000" duration="1879000" />
+      <workItem from="1568284962381" duration="526000" />
     </task>
     <servers />
   </component>
@@ -114,7 +124,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
